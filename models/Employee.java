@@ -1,3 +1,5 @@
+package models;
+
 public class Employee extends Person {
     private long employeeId;
     private String designation;
@@ -11,7 +13,7 @@ public class Employee extends Person {
     }
 
     @Override
-    void role() {
+    public void role() {
         System.out.println("My role is to work on assigned task");
     }
 
@@ -20,13 +22,13 @@ public class Employee extends Person {
 
     }
 
-    void work() {
+    public void work() {
         System.out.println("I am working on assigned task");
     }
 
     @Override
     public String toString() {
-        return "Employee{" +
+        return "model.Employee{" +
                 "employeeId=" + employeeId +
                 ", designation='" + designation + '\'' +
                 ", salary=" + salary +

@@ -1,3 +1,6 @@
+import models.Employee;
+import models.Student;
+
 import java.util.List;
 
 public class AbstractClassDemo {

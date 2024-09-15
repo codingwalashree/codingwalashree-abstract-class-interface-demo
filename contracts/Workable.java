@@ -1,3 +1,5 @@
+package contracts;
+
 public interface Workable {
     int a = 10; // interface can have final variables -- by default variables are final and should be initialized
     static int b = 20; // interface can have final static variables -- by default variables are final and should be initialized

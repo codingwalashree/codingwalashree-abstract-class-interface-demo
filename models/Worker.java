@@ -1,5 +1,10 @@
+package models;
+
+import contracts.Action;
+import contracts.Workable;
+
 /**
- * Sub-class / Child-class 'Worker' implementing from two interfaces - 'Workable' and 'Action'
+ * Sub-class / Child-class 'model.Worker' implementing from two interfaces - 'contracts.Workable' and 'contracts.Action'
  * */
 public class Worker implements Workable, Action {
     private String name;
@@ -17,7 +22,7 @@ public class Worker implements Workable, Action {
     }
 
     /**
-     * Override startWork method from interface 'Workable'
+     * Override startWork method from interface 'contracts.Workable'
      * */
     @Override
     public void startWork() {
@@ -25,7 +30,7 @@ public class Worker implements Workable, Action {
     }
 
     /**
-     * Override stopWork method from interface 'Workable'
+     * Override stopWork method from interface 'contracts.Workable'
      * */
     @Override
     public void stopWork() {
@@ -33,7 +38,7 @@ public class Worker implements Workable, Action {
     }
 
     /**
-     * Override act method from interface 'Action'
+     * Override act method from interface 'contracts.Action'
      * */
     @Override
     public void act() {

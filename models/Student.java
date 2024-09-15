@@ -1,3 +1,5 @@
+package models;
+
 import java.util.List;
 
 public class Student extends Person {
@@ -13,7 +15,7 @@ public class Student extends Person {
     }
 
     @Override
-    void role() {
+    public void role() {
         System.out.println("My role is studying");
     }
 
@@ -22,13 +24,13 @@ public class Student extends Person {
 
     }
 
-    void study() {
+    public void study() {
         System.out.println("I am studying");
     }
 
     @Override
     public String toString() {
-        return "Student{" +
+        return "model.Student{" +
                 "rollNumber=" + rollNumber +
                 ", standard='" + standard + '\'' +
                 ", subjects=" + subjects +

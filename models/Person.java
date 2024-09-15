@@ -1,3 +1,5 @@
+package models;
+
 public abstract class Person {
     private String name;
     private int age;
@@ -13,13 +15,13 @@ public abstract class Person {
 
     abstract void sample();
 
-    void sayHello() {
+    public void sayHello() {
         System.out.println(name + " says Hello!");
     }
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "model.Person{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", address='" + address + '\'' +

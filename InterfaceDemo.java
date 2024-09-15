@@ -1,9 +1,12 @@
+import contracts.Workable;
+import models.Worker;
+
 public class InterfaceDemo {
     public static void main(String[] args) {
         /**
          * Create object of a class
          * Remember that, you can not create object of interface directly,
-         * however, object of a concrete sub-class (Worker in our example) can be created
+         * however, object of a concrete sub-class (model.Worker in our example) can be created
          * */
         Worker worker = new Worker("Hari");
         worker.startWork(); // calling overriden startWork
@@ -33,6 +36,6 @@ public class InterfaceDemo {
 
         anonymousWorkableObject.startWork(); // prints 'In anonymous start work'
         anonymousWorkableObject.stopWork(); // prints 'In anonymous stop work'
-        anonymousWorkableObject.sampleDefault(); // calls default method inherited from interface Workable
+        anonymousWorkableObject.sampleDefault(); // calls default method inherited from interface contracts.Workable
     }
 }
