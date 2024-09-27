@@ -42,32 +42,32 @@ Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software arch
 * Can we create object of an interface?
 
 ## Differences
-1. Method Implementation
+1. Method Implementation:<br>
    Abstract Class: Can have both abstract methods (without implementation) and concrete methods (with implementation).
    Interface: Until Java 8, all methods were abstract. From Java 8 onwards, interfaces can have default methods (with implementation) and static methods (with implementation).
-2. Fields
+2. Fields:<br>
    Abstract Class: Can have instance variables (fields) with any access modifier (private, protected, public).
    Interface: Can only have constants (public static final fields). Instance variables are not allowed.
-3. Multiple Inheritance
+3. Multiple Inheritance:<br>
    Abstract Class: A class can extend only one abstract class due to single inheritance in Java.
    Interface: A class can implement multiple interfaces, allowing for multiple inheritance of type.
-4. Constructors
+4. Constructors:<br>
    Abstract Class: Can have constructors to initialize fields.
    Interface: Cannot have constructors because interfaces cannot hold instance state.
-5. Access Modifiers for Methods
+5. Access Modifiers for Methods:<br>
    Abstract Class: Methods can have any access modifier (private, protected, public).
    Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.
-6. Inheritance Type
+6. Inheritance Type:<br>
    Abstract Class: Supports single inheritance.
    Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.
-7. Abstract Methods
+7. Why extends vs implements?:<br>
    Abstract Class: we extend the related class to create a more specific child-class – upon extending a class, it’s fields (or state) and methods become part of the sub-class. 
                    So, the term extends used for inheriting from classes.
    Interface: Purpose of interfaces is primarily declaring a contract for what methods or behaviors it’s child-classes should have. 
               So, the term ‘implements’ is used for inheriting from interfaces.
-8. Use Case
+8. Use Case:<br>
    Abstract Class: Used when you want to share common code and behavior across closely related classes.
    Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."
-9. Example Usage
+9. Example Usage:<br>
    Abstract Class: Used when classes share a common base but have specific differences. Example: Animal class with shared behaviors.
    Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.
