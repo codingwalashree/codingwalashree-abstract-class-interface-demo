@@ -4,21 +4,13 @@ import contracts.Action;
 import contracts.Workable;
 
 /**
- * Sub-class / Child-class 'model.Worker' implementing from two interfaces - 'contracts.Workable' and 'contracts.Action'
+ * Sub-class / Child-class 'models.Worker' implementing from two interfaces - 'contracts.Workable' and 'contracts.Action'
+ * and extending an abstract class 'models.Person'
  * */
-public class Worker implements Workable, Action {
-    private String name;
+public class Worker extends Person implements Workable, Action {
 
     public Worker(String name) {
-        this.name = name;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
+        super(name);
     }
 
     /**
@@ -44,5 +36,15 @@ public class Worker implements Workable, Action {
     public void act() {
         System.out.println("In act() method");
         this.startWork(); // calling startWork method
+    }
+
+    @Override
+    void role() {
+        System.out.println("My role is to work on name task");
+    }
+
+    @Override
+    void sample() {
+        // some implementation
     }
 }

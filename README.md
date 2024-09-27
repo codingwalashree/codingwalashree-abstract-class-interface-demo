@@ -57,18 +57,17 @@ Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software arch
 5. Access Modifiers for Methods
    Abstract Class: Methods can have any access modifier (private, protected, public).
    Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.
-6. Use Case
-   Abstract Class: Used when you want to share common code and behavior across closely related classes.
-   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."
-7. Inheritance Type
+6. Inheritance Type
    Abstract Class: Supports single inheritance.
    Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.
-8. Performance
-   Abstract Class: Generally considered faster than interfaces due to direct method invocation.
-   Interface: Slightly slower than abstract classes (pre-Java 8) because interface methods require an extra level of indirection for invocation.
-9. Abstract Methods
-   Abstract Class: Can have both abstract and concrete methods.
-   Interface: Before Java 8, all methods were abstract. After Java 8, interfaces can also have default and static methods.
-10. Example Usage
-    Abstract Class: Used when classes share a common base but have specific differences. Example: Animal class with shared behaviors.
-    Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.
+7. Abstract Methods
+   Abstract Class: we extend the related class to create a more specific child-class – upon extending a class, it’s fields (or state) and methods become part of the sub-class. 
+                   So, the term extends used for inheriting from classes.
+   Interface: Purpose of interfaces is primarily declaring a contract for what methods or behaviors it’s child-classes should have. 
+              So, the term ‘implements’ is used for inheriting from interfaces.
+8. Use Case
+   Abstract Class: Used when you want to share common code and behavior across closely related classes.
+   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."
+9. Example Usage
+   Abstract Class: Used when classes share a common base but have specific differences. Example: Animal class with shared behaviors.
+   Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.
