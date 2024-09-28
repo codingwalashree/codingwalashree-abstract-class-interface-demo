@@ -8,9 +8,30 @@
 Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software architecture concepts:
 
 ### Core Java Videos
-* <a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
-  " target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
-  alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
+
+<table style="border:none !important;">
+   <tr style="border:none !important;">
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=NZK5p3RIUic
+           " target="_blank"><img src="http://img.youtube.com/vi/NZK5p3RIUic/0.jpg"
+           alt="Understanding Interfaces in Java : Secret to Cleaner Code" width="240" height="180" border="10" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=5L4U87By3_Y
+           " target="_blank"><img src="http://img.youtube.com/vi/5L4U87By3_Y/0.jpg"
+           alt="Understanding Abstract Classes in Java" width="240" height="180" border="10" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
+           " target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
+           alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
+      </td>
+   </tr>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
+" target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
+alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
+</table>
 * ▶ [ Core Java Playlist](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Understanding Interfaces in Java](https://youtu.be/NZK5p3RIUic)
 * ▶ [ Understanding Abstract Classes in Java](https://youtu.be/5L4U87By3_Y)
