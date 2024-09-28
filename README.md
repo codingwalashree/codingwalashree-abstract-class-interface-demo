@@ -6,10 +6,15 @@
 * Refer the code snippets which demonstrate abstract classes and interfaces
 
 Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software architecture concepts:
+
 ### Core Java Videos
+* <a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
+  " target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
+  alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
 * ▶ [ Core Java Playlist](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Understanding Interfaces in Java](https://youtu.be/NZK5p3RIUic)
 * ▶ [ Understanding Abstract Classes in Java](https://youtu.be/5L4U87By3_Y)
+* ▶ [ Abstract Classes vs Interfaces in Java - 8 Key Differences](https://youtu.be/mPj7CH8zCaU)
 
 ### Java 8 Features Videos
 * ▶ [ Java 8 Features Playlist](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
@@ -40,6 +45,7 @@ Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software arch
 * Can interface store member variables?
 * Can interface have constructors?
 * Can we create object of an interface?
+
 
 ## Differences
 1. Method Implementation:<br>
