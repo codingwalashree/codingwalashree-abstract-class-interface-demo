@@ -8,7 +8,7 @@
 Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
 
-### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
+## Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
 
 
 <table style="border:none !important;">
@@ -68,7 +68,7 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
 </table>
 
 
-### Playlists
+## Playlists
 * ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
 * ▶ [ Core Java ](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Java Interview Preparation ](https://www.youtube.com/playlist?list=PL0NAuwT3sRELG-VTgkp9qMelukbqMxuQK)
