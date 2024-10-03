@@ -5,46 +5,73 @@
 * Understand when to use what
 * Refer the code snippets which demonstrate abstract classes and interfaces
 
-Follow my 🔴 YouTube channel for more videos on Java, Kotlin and software architecture concepts:
+Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
-### Core Java Videos
+
+### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
+
 
 <table style="border:none !important;">
    <tr style="border:none !important;">
       <td style="border:none !important;">
          <a href="http://www.youtube.com/watch?feature=player_embedded&v=NZK5p3RIUic
            " target="_blank"><img src="http://img.youtube.com/vi/NZK5p3RIUic/0.jpg"
-           alt="Understanding Interfaces in Java : Secret to Cleaner Code" width="240" height="180" border="10" /></a>
+           alt="Understanding Interfaces in Java : Secret to Cleaner Code" width="200" height="150" border="0" /></a>
       </td>
       <td style="border:none !important;">
          <a href="http://www.youtube.com/watch?feature=player_embedded&v=5L4U87By3_Y
            " target="_blank"><img src="http://img.youtube.com/vi/5L4U87By3_Y/0.jpg"
-           alt="Understanding Abstract Classes in Java" width="240" height="180" border="10" /></a>
+           alt="Why You Should Use Abstract Classes in Java" width="200" height="150" border="0" /></a>
       </td>
       <td style="border:none !important;">
          <a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
            " target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
-           alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
+           alt="Abstract Classes vs Interfaces in Java" width="200" height="150" border="0" /></a>
       </td>
    </tr>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=mPj7CH8zCaU
-" target="_blank"><img src="http://img.youtube.com/vi/mPj7CH8zCaU/0.jpg"
-alt="Abstract Classes vs Interfaces in Java" width="240" height="180" border="10" /></a>
-</table>
-* ▶ [ Core Java Playlist](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
-* ▶ [ Understanding Interfaces in Java](https://youtu.be/NZK5p3RIUic)
-* ▶ [ Understanding Abstract Classes in Java](https://youtu.be/5L4U87By3_Y)
-* ▶ [ Abstract Classes vs Interfaces in Java - 8 Key Differences](https://youtu.be/mPj7CH8zCaU)
+   <tr style="border:none !important;">
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=meFi5pR-Y4w
+           " target="_blank"><img src="http://img.youtube.com/vi/meFi5pR-Y4w/0.jpg"
+           alt="Understanding Default and Static Methods in Java 8 - Part 1" width="200" height="150" border="0" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=0RbiKB3t0Qk
+           " target="_blank"><img src="http://img.youtube.com/vi/0RbiKB3t0Qk/0.jpg"
+           alt="Understanding Default and Static Methods in Java 8 - Part 2" width="200" height="150" border="0" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=xq3vbXNPnac
+           " target="_blank"><img src="http://img.youtube.com/vi/xq3vbXNPnac/0.jpg"
+           alt="Understanding Default and Static Methods in Java 8 - Part 3" width="200" height="150" border="0" /></a>
+      </td>
+   </tr>
 
-### Java 8 Features Videos
-* ▶ [ Java 8 Features Playlist](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
-* ▶ [ Understanding Default and Static Methods in Java 8 - Part 1](https://youtu.be/meFi5pR-Y4w)
-* ▶ [ Understanding Default and Static Methods in Java 8 - Part 2](https://youtu.be/0RbiKB3t0Qk)
-* ▶ [ Understanding Default and Static Methods in Java 8 - Part 3](https://youtu.be/xq3vbXNPnac)
-* ▶ [ Lambda Expressions and Functional Interfaces - Part 1](https://youtu.be/ywr5Ojc2sBA)
-* ▶ [ Lambda Expressions and Functional Interfaces - Part 2](https://youtu.be/yRagq3IAgVo)
-* ▶ [ Lambda Expressions and Functional Interfaces - Part 3](https://youtu.be/9JhCJ73kvmM)
+   <tr style="border:none !important;">
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=ywr5Ojc2sBA
+           " target="_blank"><img src="http://img.youtube.com/vi/ywr5Ojc2sBA/0.jpg"
+           alt="Lambda Expressions and Functional Interfaces - Part 1" width="200" height="150" border="0" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=yRagq3IAgVo
+           " target="_blank"><img src="http://img.youtube.com/vi/yRagq3IAgVo/0.jpg"
+           alt="Lambda Expressions and Functional Interfaces - Part 2" width="200" height="150" border="0" /></a>
+      </td>
+      <td style="border:none !important;">
+         <a href="http://www.youtube.com/watch?feature=player_embedded&v=9JhCJ73kvmM
+           " target="_blank"><img src="http://img.youtube.com/vi/9JhCJ73kvmM/0.jpg"
+           alt="Lambda Expressions and Functional Interfaces - Part 3" width="200" height="150" border="0" /></a>
+      </td>
+   </tr>
+</table>
+
+
+### Playlists
+* ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
+* ▶ [ Core Java ](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
+* ▶ [ Java Interview Preparation ](https://www.youtube.com/playlist?list=PL0NAuwT3sRELG-VTgkp9qMelukbqMxuQK)
 
 
 ## Abstract Classes
