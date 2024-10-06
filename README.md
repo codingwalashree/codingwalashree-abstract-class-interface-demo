@@ -6,31 +6,11 @@
 
 Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
-#CodingWalaShree #Java #Kotlin #LearnProgramming
-<br></br>
+#CodingWalaShree #Java #AbstractClass #Interfaces #AbstractClassVsInterface #Kotlin #LearnProgramming
+
 ### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
 
-<br></br>
-#### Video comparing Java vs Kotlin:
 
-Find out answers to the questions like:
-- Java Developer's Job at Risk? Learn Kotlin?
-- How Kotlin is gaining popularity in Android development.
-- Whether Kotlin can replace Java in the long run.
-- Java’s evolving features to stay relevant in modern development.
-- Key factors like code readability, performance, and community support.
-
-<table>
-   <tr style="border:none !important;">
-      <td style="border:none !important;">
-         <a href="https://www.youtube.com/watch?v=dp_KyRtzAzw
-           " target="_blank"><img src="http://img.youtube.com/vi/dp_KyRtzAzw/0.jpg"
-           alt="Java Developer's Job at Risk? Learn Kotlin?" width="200" height="150" border="0" /></a>
-      </td>
-    </tr>
-</table>
-
-<br></br>
 #### Videos on Core Java:
 
 <table style="border:none !important;">
@@ -53,7 +33,7 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br></br>
+
 #### Videos on Default and Static Interface Methods in Java:
 
 <table>
@@ -76,7 +56,7 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br></br>
+
 #### Videos on Lambda Expressions and Functional Interfaces in Java:
 
 <table>
@@ -99,14 +79,34 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br></br>
+
+#### Video comparing Java vs Kotlin:
+
+Find out answers to the questions like:
+- Java Developer's Job at Risk? Learn Kotlin?
+- How Kotlin is gaining popularity in Android development.
+- Whether Kotlin can replace Java in the long run.
+- Java’s evolving features to stay relevant in modern development.
+- Key factors like code readability, performance, and community support.
+
+<table>
+   <tr style="border:none !important;">
+      <td style="border:none !important;">
+         <a href="https://www.youtube.com/watch?v=dp_KyRtzAzw
+           " target="_blank"><img src="http://img.youtube.com/vi/dp_KyRtzAzw/0.jpg"
+           alt="Java Developer's Job at Risk? Learn Kotlin?" width="200" height="150" border="0" /></a>
+      </td>
+    </tr>
+</table>
+
+
 ### Playlists
 * ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
 * ▶ [ Core Java ](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Java Interview Preparation ](https://www.youtube.com/playlist?list=PL0NAuwT3sRELG-VTgkp9qMelukbqMxuQK)
 * ▶ [ Kotlin Essentials ](https://www.youtube.com/watch?list=PL0NAuwT3sREJIquQlohcGhwfQJ7QhtEeb)
 
-<br></br>
+
 ## Abstract Classes
 * What is an abstract class?
 * How to define and use abstract classes in Java.
@@ -115,7 +115,7 @@ Find out answers to the questions like:
 * Constructors in abstract classes.
 * Real-world examples and best practices.
 
-<br></br>
+
 ## Interfaces
 * How to define and implement interfaces?
 * Default and static methods in interfaces - Java 8
@@ -127,34 +127,34 @@ Find out answers to the questions like:
 * Can interface have constructors?
 * Can we create object of an interface?
 
-<br></br>
+
 ## Differences
 1. Method Implementation:
    Abstract Class: Can have both abstract methods (without implementation) and concrete methods (with implementation).
-   Interface: Until Java 8, all methods were abstract. From Java 8 onwards, interfaces can have default methods (with implementation) and static methods (with implementation).<br></br>
+   Interface: Until Java 8, all methods were abstract. From Java 8 onwards, interfaces can have default methods (with implementation) and static methods (with implementation).
 2. Fields:
    Abstract Class: Can have instance variables (fields) with any access modifier (private, protected, public).
-   Interface: Can only have constants (public static final fields). Instance variables are not allowed.<br></br>
+   Interface: Can only have constants (public static final fields). Instance variables are not allowed.
 3. Multiple Inheritance:
    Abstract Class: A class can extend only one abstract class due to single inheritance in Java.
-   Interface: A class can implement multiple interfaces, allowing for multiple inheritance of type.<br></br>
+   Interface: A class can implement multiple interfaces, allowing for multiple inheritance of type.
 4. Constructors:
    Abstract Class: Can have constructors to initialize fields.
-   Interface: Cannot have constructors because interfaces cannot hold instance state.<br></br>
+   Interface: Cannot have constructors because interfaces cannot hold instance state.
 5. Access Modifiers for Methods:
    Abstract Class: Methods can have any access modifier (private, protected, public).
-   Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.<br></br>
+   Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.
 6. Inheritance Type:
    Abstract Class: Supports single inheritance.
-   Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.<br></br>
+   Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.
 7. Why extends vs implements?:
    Abstract Class: we extend the related class to create a more specific child-class – upon extending a class, it’s fields (or state) and methods become part of the sub-class. 
                    So, the term extends used for inheriting from classes.
    Interface: Purpose of interfaces is primarily declaring a contract for what methods or behaviors it’s child-classes should have. 
-              So, the term ‘implements’ is used for inheriting from interfaces.<br></br>
+              So, the term ‘implements’ is used for inheriting from interfaces.
 8. Use Case:
    Abstract Class: Used when you want to share common code and behavior across closely related classes.
-   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."<br></br>
+   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."
 9. Example Usage:
    Abstract Class: Used when classes share a common base but have specific differences. Example: Animal class with shared behaviors.
-   Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.<br></br>
+   Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.
