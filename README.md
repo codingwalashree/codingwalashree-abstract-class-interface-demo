@@ -7,9 +7,32 @@
 
 Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
+#CodingWalaShree #Java #Kotlin #LearnProgramming
 
-## Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
+### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
 
+<br>
+#### Video comparing Java vs Kotlin:
+
+Find out answers to the questions like:
+- Java Developer's Job at Risk? Learn Kotlin?
+- How Kotlin is gaining popularity in Android development.
+- Whether Kotlin can replace Java in the long run.
+- Java’s evolving features to stay relevant in modern development.
+- Key factors like code readability, performance, and community support.
+
+<table>
+   <tr style="border:none !important;">
+      <td style="border:none !important;">
+         <a href="https://www.youtube.com/watch?v=dp_KyRtzAzw
+           " target="_blank"><img src="http://img.youtube.com/vi/dp_KyRtzAzw/0.jpg"
+           alt="Java Developer's Job at Risk? Learn Kotlin?" width="200" height="150" border="0" /></a>
+      </td>
+    </tr>
+</table>
+
+<br>
+#### Videos on Core Java:
 
 <table style="border:none !important;">
    <tr style="border:none !important;">
@@ -29,7 +52,12 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
            alt="Abstract Classes vs Interfaces in Java" width="200" height="150" border="0" /></a>
       </td>
    </tr>
+</table>
 
+<br>
+#### Videos on Default and Static Interface Methods in Java:
+
+<table>
    <tr style="border:none !important;">
       <td style="border:none !important;">
          <a href="http://www.youtube.com/watch?feature=player_embedded&v=meFi5pR-Y4w
@@ -47,7 +75,12 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
            alt="Understanding Default and Static Methods in Java 8 - Part 3" width="200" height="150" border="0" /></a>
       </td>
    </tr>
+</table>
 
+<br>
+#### Videos on Lambda Expressions and Functional Interfaces in Java:
+
+<table>
    <tr style="border:none !important;">
       <td style="border:none !important;">
          <a href="http://www.youtube.com/watch?feature=player_embedded&v=ywr5Ojc2sBA
@@ -67,13 +100,14 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
    </tr>
 </table>
 
-
-## Playlists
+<br>
+### Playlists
 * ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
 * ▶ [ Core Java ](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Java Interview Preparation ](https://www.youtube.com/playlist?list=PL0NAuwT3sRELG-VTgkp9qMelukbqMxuQK)
+* ▶ [ Kotlin Essentials ](https://www.youtube.com/watch?list=PL0NAuwT3sREJIquQlohcGhwfQJ7QhtEeb)
 
-
+<br>
 ## Abstract Classes
 * What is an abstract class?
 * How to define and use abstract classes in Java.
@@ -82,7 +116,7 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
 * Constructors in abstract classes.
 * Real-world examples and best practices.
 
-
+<br>
 ## Interfaces
 * How to define and implement interfaces?
 * Default and static methods in interfaces - Java 8
@@ -94,7 +128,7 @@ Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotl
 * Can interface have constructors?
 * Can we create object of an interface?
 
-
+<br>
 ## Differences
 1. Method Implementation:<br>
    Abstract Class: Can have both abstract methods (without implementation) and concrete methods (with implementation).
