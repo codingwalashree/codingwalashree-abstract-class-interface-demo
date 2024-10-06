@@ -1,6 +1,5 @@
 # Abstract Classes and Interfaces in Java with examples
 
-
 * Understand how abstract classes and interfaces work
 * Understand when to use what
 * Refer the code snippets which demonstrate abstract classes and interfaces
@@ -8,10 +7,10 @@
 Follow my 🔴 YouTube channel "Coding Wala Shree" for more videos on Java, Kotlin and software architecture concepts:
 
 #CodingWalaShree #Java #Kotlin #LearnProgramming
-
+<br></br>
 ### Videos on [Coding Wala Shree](https://www.youtube.com/@CodingwalaShree)
 
-<br>
+<br></br>
 #### Video comparing Java vs Kotlin:
 
 Find out answers to the questions like:
@@ -31,7 +30,7 @@ Find out answers to the questions like:
     </tr>
 </table>
 
-<br>
+<br></br>
 #### Videos on Core Java:
 
 <table style="border:none !important;">
@@ -54,7 +53,7 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br>
+<br></br>
 #### Videos on Default and Static Interface Methods in Java:
 
 <table>
@@ -77,7 +76,7 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br>
+<br></br>
 #### Videos on Lambda Expressions and Functional Interfaces in Java:
 
 <table>
@@ -100,14 +99,14 @@ Find out answers to the questions like:
    </tr>
 </table>
 
-<br>
+<br></br>
 ### Playlists
 * ▶ [ Java 8 Features ](https://www.youtube.com/playlist?list=PL0NAuwT3sREIpmVKgApk2vauQ4zWAenen)
 * ▶ [ Core Java ](https://www.youtube.com/playlist?list=PL0NAuwT3sREK2RpKdYhCM-7J9hoaPr9oY)
 * ▶ [ Java Interview Preparation ](https://www.youtube.com/playlist?list=PL0NAuwT3sRELG-VTgkp9qMelukbqMxuQK)
 * ▶ [ Kotlin Essentials ](https://www.youtube.com/watch?list=PL0NAuwT3sREJIquQlohcGhwfQJ7QhtEeb)
 
-<br>
+<br></br>
 ## Abstract Classes
 * What is an abstract class?
 * How to define and use abstract classes in Java.
@@ -116,7 +115,7 @@ Find out answers to the questions like:
 * Constructors in abstract classes.
 * Real-world examples and best practices.
 
-<br>
+<br></br>
 ## Interfaces
 * How to define and implement interfaces?
 * Default and static methods in interfaces - Java 8
@@ -128,34 +127,34 @@ Find out answers to the questions like:
 * Can interface have constructors?
 * Can we create object of an interface?
 
-<br>
+<br></br>
 ## Differences
-1. Method Implementation:<br>
+1. Method Implementation:
    Abstract Class: Can have both abstract methods (without implementation) and concrete methods (with implementation).
-   Interface: Until Java 8, all methods were abstract. From Java 8 onwards, interfaces can have default methods (with implementation) and static methods (with implementation).
-2. Fields:<br>
+   Interface: Until Java 8, all methods were abstract. From Java 8 onwards, interfaces can have default methods (with implementation) and static methods (with implementation).<br></br>
+2. Fields:
    Abstract Class: Can have instance variables (fields) with any access modifier (private, protected, public).
-   Interface: Can only have constants (public static final fields). Instance variables are not allowed.
-3. Multiple Inheritance:<br>
+   Interface: Can only have constants (public static final fields). Instance variables are not allowed.<br></br>
+3. Multiple Inheritance:
    Abstract Class: A class can extend only one abstract class due to single inheritance in Java.
-   Interface: A class can implement multiple interfaces, allowing for multiple inheritance of type.
-4. Constructors:<br>
+   Interface: A class can implement multiple interfaces, allowing for multiple inheritance of type.<br></br>
+4. Constructors:
    Abstract Class: Can have constructors to initialize fields.
-   Interface: Cannot have constructors because interfaces cannot hold instance state.
-5. Access Modifiers for Methods:<br>
+   Interface: Cannot have constructors because interfaces cannot hold instance state.<br></br>
+5. Access Modifiers for Methods:
    Abstract Class: Methods can have any access modifier (private, protected, public).
-   Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.
-6. Inheritance Type:<br>
+   Interface: Methods are public by default. Prior to Java 9, methods were only public, abstract, or default.<br></br>
+6. Inheritance Type:
    Abstract Class: Supports single inheritance.
-   Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.
-7. Why extends vs implements?:<br>
+   Interface: Supports multiple inheritance by allowing a class to implement multiple interfaces.<br></br>
+7. Why extends vs implements?:
    Abstract Class: we extend the related class to create a more specific child-class – upon extending a class, it’s fields (or state) and methods become part of the sub-class. 
                    So, the term extends used for inheriting from classes.
    Interface: Purpose of interfaces is primarily declaring a contract for what methods or behaviors it’s child-classes should have. 
-              So, the term ‘implements’ is used for inheriting from interfaces.
-8. Use Case:<br>
+              So, the term ‘implements’ is used for inheriting from interfaces.<br></br>
+8. Use Case:
    Abstract Class: Used when you want to share common code and behavior across closely related classes.
-   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."
-9. Example Usage:<br>
+   Interface: Used to define a contract or a role that unrelated classes can implement, defining "what" the class must do, not "how."<br></br>
+9. Example Usage:
    Abstract Class: Used when classes share a common base but have specific differences. Example: Animal class with shared behaviors.
-   Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.
+   Interface: Used to define behavior across unrelated classes. Example: Comparable, Runnable.<br></br>
