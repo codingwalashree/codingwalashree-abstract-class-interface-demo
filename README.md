@@ -212,5 +212,5 @@ Find out answers to the questions like:
 ### GitHub Projects:
 Links to other GitHub projects are as followed:
 * [ Abstract Classes and Interfaces in Java with examples ](https://github.com/codingwalashree/codingwalashree-abstract-class-interface-demo)
-* [ Jav 8 Features with examples ](https://github.com/codingwalashree/codingwalashree-java8-features)
+* [ Java 8 Features with examples ](https://github.com/codingwalashree/codingwalashree-java8-features)
 * [ Kotlin Essentials with examples ](https://github.com/codingwalashree/kotlin-fundamentals)
